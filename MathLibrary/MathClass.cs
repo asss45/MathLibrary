@@ -12,5 +12,13 @@ namespace MathLibrary
         {
             return x + y;
         }
+
+        public static int Del(int x, int y)
+        {
+            return x/y;
+        }
+
+
+
     }
 }
